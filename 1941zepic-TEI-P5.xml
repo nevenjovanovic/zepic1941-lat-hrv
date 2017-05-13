@@ -11104,7 +11104,7 @@
          <entryFree ana="fractus">
             <hi rend="bold">fractus,</hi> us, m. plod; uživanje; rod, ljetina; korist, dobitak; <hi rend="underline">communis fructus</hi> opće dobro</entryFree>
          <entryFree ana="frugalis">
-            <hi rend="bold">frugalis,</hi> e, adz. čestit; štedljiv</entryFree>
+            <hi rend="bold">frugalis,</hi> <gram>e, adi.</gram> čestit; štedljiv</entryFree>
          <entryFree ana="frugalitas">
             <hi rend="bold">frugalitas,</hi> atis, f. štedljivost; čestitost; razboritost</entryFree>
          <entryFree ana="frugaliter">
@@ -15569,7 +15569,7 @@
          <entryFree ana="linquo">
             <hi rend="bold">linquo,</hi> liqui, –, 3. ostaviti, pustiti; prepustiti; napustiti; otići iz; odreći se, okaniti se</entryFree>
          <entryFree ana="linteatus">
-            <hi rend="bold">linteatus,</hi> adz. odjeven u platno</entryFree>
+            <hi rend="bold">linteatus,</hi> <gram>adi.</gram> odjeven u platno</entryFree>
          <entryFree ana="linter">
             <hi rend="bold">linter,</hi> tris, f. korito; čamac, čun</entryFree>
          <entryFree ana="linteus">
@@ -31558,7 +31558,7 @@
          <entryFree ana="Nepos">
             <hi rend="bold">Nepos,</hi><gram> otis, m.</gram> Nepot, ime rimske obitelji</entryFree>
          <entryFree ana="Neptunus">
-            <hi rend="bold">Neptunus,</hi><gram> i, m.</gram> Neptun, rimski bog mora; adz. <hi rend="bold">Neptunius,</hi> Neptunov</entryFree>
+            <hi rend="bold">Neptunus,</hi><gram> i, m.</gram> Neptun, rimski bog mora; <gram>adi.</gram> <hi rend="bold">Neptunius,</hi> Neptunov</entryFree>
          <entryFree ana="Nereus">
             <hi rend="bold">Nereus,</hi><gram> ei, m.</gram> Nerej, morski bog</entryFree>
          <entryFree ana="Nero">
@@ -32383,7 +32383,7 @@
          <entryFree ana="Tauri">
             <hi rend="bold">Tauri,</hi><gram> orum, m.</gram> Tauri, skitsko pleme; </entryFree>
          <entryFree ana="Tauricus">
-            <hi rend="bold">Tauricus,</hi> adz. taurski</entryFree>
+            <hi rend="bold">Tauricus,</hi> <gram>adi.</gram> taurski</entryFree>
          <entryFree ana="Taurus">
             <hi rend="bold">Taurus,</hi><gram> i, m.</gram> Taur, 1) gora u Aziji; 2) rijeka u Aziji</entryFree>
          <entryFree ana="Taygete">
@@ -32473,7 +32473,8 @@
          <entryFree ana="Thersites">
             <hi rend="bold">Thersites,</hi><gram> se, m.</gram> Terzit, Ahejac pod Trojom</entryFree>
          <entryFree ana="Theseus">
-            <hi rend="bold">Theseus,</hi><gram> ei, m.</gram> Tezej, mitski atenski kralj; Theseius, adi. Tezejev, tezejski <hi rend="bold">Thespiae,</hi><gram> arum, f.</gram> Tespija, grad u Beotiji; <hi rend="bold">Thespienses,</hi><gram> ium, m.</gram> stanovnici Tespije</entryFree>
+            <hi rend="bold">Theseus,</hi><gram> ei, m.</gram> Tezej, mitski atenski kralj; <hi rend="bold">Theseius,</hi> <gram>adi.</gram> Tezejev, tezejski</entryFree>
+            <entryFree ana="Thespiae"><hi rend="bold">Thespiae,</hi><gram> arum, f.</gram> Tespija, grad u Beotiji; <hi rend="bold">Thespienses,</hi><gram> ium, m.</gram> stanovnici Tespije</entryFree>
          <entryFree ana="Thespis">
             <hi rend="bold">Thespis,</hi><gram> is, m.</gram> Tespis, osnivač grčke tragedije</entryFree>
          <entryFree ana="Thesprotia">
@@ -32507,7 +32508,8 @@
          <entryFree ana="Tiberius">
             <hi rend="bold">Tiberius,</hi><gram> ii, m.</gram> Tiberije, 1) rimsko ime: 2) rimski car</entryFree>
          <entryFree ana="Tibullus">
-            <hi rend="bold">Tibullus,</hi><gram> i, m.</gram> Tibul, rimski pjesnik <hi rend="bold">Tibur,</hi><gram> uric, n.</gram> Tibur, grad u Laciju, sada Tivoli; <hi rend="bold">Tiburs,</hi><gram> rtis, m.</gram> Tiburanin</entryFree>
+            <hi rend="bold">Tibullus,</hi><gram> i, m.</gram> Tibul, rimski pjesnik</entryFree> 
+            <entryFree ana="Tibur"><hi rend="bold">Tibur,</hi><gram> uric, n.</gram> Tibur, grad u Laciju, sada Tivoli; <hi rend="bold">Tiburs,</hi><gram> rtis, m.</gram> Tiburanin</entryFree>
          <entryFree ana="Ticinum">
             <hi rend="bold">Ticinum,</hi><gram> i, n.</gram> Ticin, grad na rijeci Ticinu</entryFree>
          <entryFree ana="Ticinus">
@@ -32519,7 +32521,8 @@
          <entryFree ana="Tigranocerta">
             <hi rend="bold">Tigranocerta,</hi><gram> orum, n.</gram> Tigranocerta, glavni grad armenski</entryFree>
          <entryFree ana="Tigurini">
-            <hi rend="bold">Tigurini,</hi><gram> orum, m.</gram> Tigurinci, pleme helvetsko; <hi rend="bold">Tigurinus,</hi><gram> adi.</gram> tigurinski <hi rend="bold">Timaeus,</hi> <gram>i, m.</gram> Timej, 1) grčki povjesničar; 2) grčki filozof</entryFree>
+            <hi rend="bold">Tigurini,</hi><gram> orum, m.</gram> Tigurinci, pleme helvetsko; <hi rend="bold">Tigurinus,</hi><gram> adi.</gram> tigurinski</entryFree>
+            <entryFree ana="Timaeus"><hi rend="bold">Timaeus,</hi> <gram>i, m.</gram> Timej, 1) grčki povjesničar; 2) grčki filozof</entryFree>
          <entryFree ana="Timavus">
             <hi rend="bold">Timavus,</hi><gram> i, m.</gram> Timav, rijeka kraj Trsta</entryFree> 
             <entryFree ana="Timoleon"><hi rend="bold">Timoleon,</hi><gram> ontis, m.</gram> Timoleont, korintski vojvoda</entryFree>
@@ -32532,7 +32535,8 @@
          <entryFree ana="Tiridates">
             <hi rend="bold">Tiridates,</hi><gram> ae i is, m.</gram> Tiridat, kralj armenski</entryFree>
          <entryFree ana="Tiryns">
-            <hi rend="bold">Tiryns,</hi><gram> nthis, f.</gram> Tirint, grad u Argolidi <hi rend="bold">Tisiphone,</hi><gram> es, f.</gram> Tizifona, jedna od Furija</entryFree>
+            <hi rend="bold">Tiryns,</hi><gram> nthis, f.</gram> Tirint, grad u Argolidi</entryFree> 
+            <entryFree ana="Tisiphone"><hi rend="bold">Tisiphone,</hi><gram> es, f.</gram> Tizifona, jedna od Furija</entryFree>
          <entryFree ana="Titan">
             <hi rend="bold">Titan,</hi><gram> anis, m.</gram> Titan. pl. <hi rend="bold">Titanes,</hi><gram> um, m.</gram> i <hi rend="bold">Titani,</hi><gram> orum, m.</gram> Titani, mitska lica: <hi rend="bold">Titanius,</hi> adi. titanski</entryFree>
          <entryFree ana="Tithonus">
@@ -32540,9 +32544,13 @@
          <entryFree ana="Tities">
             <hi rend="bold">Tities,</hi><gram> ium, m.</gram> ili <hi rend="bold">Titienses,</hi><gram> ium, m.</gram> Ticiji. jedan od tri rimska roda</entryFree>
          <entryFree ana="Titius">
-            <hi rend="bold">Titius,</hi><gram> adi.</gram> Ticije, ime rimskog roda <hi rend="bold">Titurius,</hi> <gram>ii, m.</gram> Titurije. legat Cezarov <hi rend="bold">Titus,</hi><gram> i, m.</gram> Tao. 1) rimsko ime: 2) rimski car</entryFree>
+            <hi rend="bold">Titius,</hi><gram> adi.</gram> Ticije, ime rimskog roda</entryFree> 
+            <entryFree ana="Titurius"><hi rend="bold">Titurius,</hi> <gram>ii, m.</gram> Titurije, legat Cezarov</entryFree>
+            <entryFree ana="Titus"><hi rend="bold">Titus,</hi><gram> i, m.</gram> Tito. 1) rimsko ime: 2) rimski car</entryFree>
          <entryFree ana="Titios">
-            <hi rend="bold">Titios,</hi><gram> i, m.</gram> Titij. sin Jupitera i Geje <hi rend="bold">Tityrus,</hi><gram> i, m.</gram> Titir. ime pastira <hi rend="bold">Tmolus,</hi><gram> i, m.</gram> Tmol. gora u Lidiji</entryFree>
+            <hi rend="bold">Titios,</hi><gram> i, m.</gram> Titij, sin Jupitera i Geje</entryFree>
+            <entryFree ana="Tityrus"><hi rend="bold">Tityrus,</hi><gram> i, m.</gram> Titir. ime pastira</entryFree>
+            <entryFree ana="Tmolus"><hi rend="bold">Tmolus,</hi><gram> i, m.</gram> Tmol. gora u Lidiji</entryFree>
          <entryFree ana="Toletum">
             <hi rend="bold">Toletum,</hi><gram> i, n.</gram> Tolet. grad u Hispaniji, danas Toledo</entryFree>
          <entryFree ana="Toletani">
@@ -32552,7 +32560,8 @@
          <entryFree ana="Tomis">
             <hi rend="bold">Tomis,</hi><gram> idis, f.</gram> i <hi rend="bold">Tomi,</hi><gram> orum, m.</gram> Tomi, grad na obali Crnoga mora; <hi rend="bold">Tomitanus,</hi><gram> adi.</gram> tomski: <hi rend="bold">Tomitae,</hi> <gram>arum, m.</gram> stanovnici Toma</entryFree>
          <entryFree ana="Tomiris">
-            <hi rend="bold">Tomiris,</hi><gram> is, f.</gram> Tomiris. skitska kraljica <hi rend="bold">Trabea,</hi> ae. m. Trabeja. rimski pisac komedija</entryFree>
+            <hi rend="bold">Tomiris,</hi><gram> is, f.</gram> Tomiris. skitska kraljica</entryFree> 
+            <entryFree ana="Trabea"><hi rend="bold">Trabea,</hi> ae. m. Trabeja. rimski pisac komedija</entryFree>
          <entryFree ana="Trachin">
             <hi rend="bold">Trachin,</hi><gram> inis, f.</gram> Trahin. grad u Tesaliji; <hi rend="bold">Trachinius,</hi><gram> adi.</gram> trahinski: <hi rend="bold">Trachiniae,</hi> <gram>arum, f.</gram> Trahinjanke, naslov Sofoklove tragedije</entryFree>
          <entryFree ana="Traianus">
@@ -32566,7 +32575,8 @@
          <entryFree ana="Trebia">
             <hi rend="bold">Trebia,</hi><gram> ae, m.</gram> Trebija, rijeka u gornjoj Italiji</entryFree>
          <entryFree ana="Trebonius">
-            <hi rend="bold">Trebonius,</hi><gram> ii, m.</gram> Trebonije, 1) ime rimskog roda; 2) Cezarov legat u Galiji <hi rend="bold">Triballi,</hi><gram> orum, m.</gram> Tribalci, tračko pleme</entryFree>
+            <hi rend="bold">Trebonius,</hi><gram> ii, m.</gram> Trebonije, 1) ime rimskog roda; 2) Cezarov legat u Galiji</entryFree> 
+            <entryFree ana="Triballi"><hi rend="bold">Triballi,</hi><gram> orum, m.</gram> Tribalci, tračko pleme</entryFree>
          <entryFree ana="Tridentum">
             <hi rend="bold">Tridentum,</hi><gram> i, n.</gram> <hi rend="bold">Trident,</hi> danas Trento</entryFree> 
             <entryFree ana="Trinacria">
@@ -32584,16 +32594,22 @@
          <entryFree ana="Troezen">
             <hi rend="bold">Troezen,</hi><gram> enis, f.</gram> Trezen, stari grad u Argolidi</entryFree>
          <entryFree ana="Troilus">
-            <hi rend="bold">Troilus,</hi><gram> i, m.</gram> Troilo, sin Prijamov <hi rend="bold">Troiugena,</hi><gram> ae, m.</gram> i f. u Troji rođeni <hi rend="bold">Trophonius,</hi><gram> ii, m.</gram> Trofonije, proročko božanstvo u Beotiji</entryFree>
+            <hi rend="bold">Troilus,</hi><gram> i, m.</gram> Troilo, sin Prijamov</entryFree> 
+            <entryFree ana="Troiugena"><hi rend="bold">Troiugena,</hi><gram> ae, m. i f.</gram> u Troji rođeni</entryFree> 
+            <entryFree ana="Trophonius"><hi rend="bold">Trophonius,</hi><gram> ii, m.</gram> Trofonije, proročko božanstvo u Beotiji</entryFree>
          <entryFree ana="Tros">
             <hi rend="bold">Tros,</hi><gram> ois, m.</gram> Tros, kralj u Frigiji; <hi rend="bold">Troia,</hi><gram> ae, f.</gram> Troja, grad; Troianus, <hi rend="bold">Troius,</hi> Troicus, <gram>adi.</gram> trojanski; <hi rend="bold">Troiani,</hi> <gram>orum, m.</gram> ili <hi rend="bold">Troes,</hi><gram> um, m.</gram> Trojanci; <hi rend="bold">Troas.</hi><gram> adis, f.</gram> Troada, zemlja</entryFree>
          <entryFree ana="Tuisco">
             <hi rend="bold">Tuisco,</hi><gram> onis, m.</gram> Tuiskon, praotac ljudi, sin zemlje kod starih Germana</entryFree>
             <entryFree ana="Tullius"><hi rend="bold">Tullius,</hi><gram> ii, m.</gram> Tulije, rod rimski; <hi rend="bold">Tullianus,</hi><gram> adi.</gram> Tulijev; <hi rend="bold">Tullianum,</hi> <gram>i, n.</gram> donji dio rimske državne tamnice</entryFree>
          <entryFree ana="Tullus">
-            <hi rend="bold">Tullus,</hi><gram> i, m.</gram> Tulo, rimsko ime <hi rend="bold">Tunes,</hi><gram> etis, m.</gram> Tunet (Tunis) <hi rend="bold">Turdetani,</hi><gram> orum, m.</gram> Turdetanci, hispansko pleme</entryFree>
+            <hi rend="bold">Tullus,</hi><gram> i, m.</gram> Tulo, rimsko ime</entryFree>
+            <entryFree ana="Tunes"><hi rend="bold">Tunes,</hi><gram> etis, m.</gram> Tunet (Tunis)</entryFree>
+            <entryFree ana="Turdetani"><hi rend="bold">Turdetani,</hi><gram> orum, m.</gram> Turdetanci, hispansko pleme</entryFree>
          <entryFree ana="Turius">
-            <hi rend="bold">Turius,</hi><gram> ii, m.</gram> Turije, ime rimskog roda <hi rend="bold">Turnus,</hi><gram> i, m.</gram> Turno, kralj rutulski <hi rend="bold">Turdnes,</hi><gram> um</gram> i <hi rend="bold">Turoni,</hi> <gram>orum, m.</gram> Turonci, galsko pleme</entryFree>
+            <hi rend="bold">Turius,</hi><gram> ii, m.</gram> Turije, ime rimskog roda</entryFree>
+            <entryFree ana="Turnus"><hi rend="bold">Turnus,</hi><gram> i, m.</gram> Turno, kralj rutulski</entryFree>
+            <entryFree ana="Turones"><hi rend="bold">Turones,</hi><gram> um</gram> i <hi rend="bold">Turoni,</hi> <gram>orum, m.</gram> Turonci, galsko pleme</entryFree>
          <entryFree ana="Turpilius">
             <hi rend="bold">Turpilius</hi><gram> ii, m.</gram> Turpilije, ime rimskog roda</entryFree>
          <entryFree ana="Turranius">
@@ -32608,14 +32624,14 @@
             <hi rend="bold">Tydeus,</hi><gram> ei, m.</gram> Tidej, otac Diomedov</entryFree>
          <entryFree ana="Tydides">
             <hi rend="bold">Tydides,</hi><gram> ae, m.</gram> sin Tidejev, Diomed </entryFree>
-            <entryFree ana="Tyndireus"><hi rend="bold">Tyndireus,</hi><gram> i, m.</gram> Tindarej, mitsko lice <hi rend="bold">Tyndarides,</hi><gram> ae, m.</gram> sin Tindarejev (Kastor i Poluks); <hi rend="bold">Tyndaris,</hi><gram> idis, f.</gram> kći Tindarejeva (Helena ili Klitemestra)</entryFree> 
+            <entryFree ana="Tyndareus"><hi rend="bold">Tyndareus,</hi><gram> i, m.</gram> Tindarej, mitsko lice <hi rend="bold">Tyndarides,</hi><gram> ae, m.</gram> sin Tindarejev (Kastor i Poluks); <hi rend="bold">Tyndaris,</hi><gram> idis, f.</gram> kći Tindarejeva (Helena ili Klitemestra)</entryFree> 
                <entryFree ana="Typhoeus"><hi rend="bold">Typhoeus,</hi><gram> ei, m.</gram> ili <hi rend="bold">Typhon,</hi><gram> onis, m.</gram> Tifon, jedan od giganata</entryFree>
          <entryFree ana="Tyras">
             <hi rend="bold">Tyras,</hi><gram> ae, m.</gram> Tira. rijeka u Sarmatiji, danas Dnjestar</entryFree>
          <entryFree ana="Tyrrheni">
             <hi rend="bold">Tyrrheni,</hi> orum. m. Tirenci, praoci Etrušćana: <hi rend="bold">Tyrrhenus,</hi> adi. tirenski <hi rend="bold">Tyrrhenum mare</hi> Tirensko more</entryFree>
          <entryFree ana="Tyrus">
-            <hi rend="bold">Tyrus,</hi><gram> i, f.</gram> Tir, grad u Fenikiji: <hi rend="bold">Tyrius,</hi> adi. tirski: <hi rend="bold">Tiyrius,</hi> ii. m. stanovnik Tira</entryFree>
+            <hi rend="bold">Tyrus,</hi><gram> i, f.</gram> Tir, grad u Fenikiji: <hi rend="bold">Tyrius,</hi> adi. tirski: <hi rend="bold">Tyrius,</hi> ii. m. stanovnik Tira</entryFree>
          <entryFree ana="Tyrtaeus">
             <hi rend="bold">Tyrtaeus,</hi><gram> i, m.</gram> Tirtej, grčki pjesnik</entryFree>
          <entryFree ana="Ubii">
@@ -32633,7 +32649,8 @@
          <entryFree ana="Urania">
             <hi rend="bold">Urania,</hi><gram> ae, f.</gram> Uranija, jedna od devet muza</entryFree>
          <entryFree ana="Urbinum">
-            <hi rend="bold">Urbinum,</hi><gram> i, n.</gram> Urbin (Urbino), grad u Umbriji; <hi rend="bold">Urbinas,</hi><gram> atis, m.</gram> Urbinae <hi rend="bold">Usipetes,</hi><gram> um, m.</gram> Uzipećani, germansko pleme</entryFree>
+            <hi rend="bold">Urbinum,</hi><gram> i, n.</gram> Urbin (Urbino), grad u Umbriji; <hi rend="bold">Urbinas,</hi><gram> atis, m.</gram> Urbinac</entryFree> 
+            <entryFree ana="Usipetes"><hi rend="bold">Usipetes,</hi><gram> um, m.</gram> Uzipećani, germansko pleme</entryFree>
          <entryFree ana="Utica">
             <hi rend="bold">Utica,</hi><gram> ae, f.</gram> Utika, grad u Africi; Uticensis, e, adi. utički; <hi rend="bold">Uticensis,</hi><gram> is, m.</gram> Utičanin</entryFree>
          <entryFree ana="Uxellodunum">
@@ -32649,7 +32666,8 @@
          <entryFree ana="Vagenses">
             <hi rend="bold">Vagenses,</hi><gram> ium, m.</gram> stanovnici grada Vage</entryFree>
          <entryFree ana="Valentia">
-            <hi rend="bold">Valentia,</hi><gram> ae, f.</gram> Valencija, hispanski grad <hi rend="bold">Valerius,</hi><gram> ii, m.</gram> Valerije, ime rimskog roda</entryFree>
+            <hi rend="bold">Valentia,</hi><gram> ae, f.</gram> Valencija, hispanski grad</entryFree> 
+            <entryFree ana="Valerius"><hi rend="bold">Valerius,</hi><gram> ii, m.</gram> Valerije, ime rimskog roda</entryFree>
          <entryFree ana="Vandali">
             <hi rend="bold">Vandali,</hi><gram> orum, m.</gram> Vandali, germansko pleme</entryFree>
          <entryFree ana="Vangiones">
@@ -32659,7 +32677,8 @@
          <entryFree ana="Vargunteius">
             <hi rend="bold">Vargunteius,</hi><gram> i, m.</gram> Varguntej, rimski senator</entryFree>
          <entryFree ana="Varius">
-            <hi rend="bold">Varius,</hi><gram> ii, m.</gram> Varije, ime rimskog roda <hi rend="bold">Varro,</hi><gram> onis, m.</gram> Varon, <hi rend="bold">1)</hi> obiteljsko ime rimsko; 2) rimski vojskovođa; 3) rimski učitelj i pisac; </entryFree>
+            <hi rend="bold">Varius,</hi><gram> ii, m.</gram> Varije, ime rimskog roda</entryFree> 
+            <entryFree ana="Varro"><hi rend="bold">Varro,</hi><gram> onis, m.</gram> Varon, <hi rend="bold">1)</hi> obiteljsko ime rimsko; 2) rimski vojskovođa; 3) rimski učitelj i pisac; </entryFree>
          <entryFree ana="Varronianus">
             <hi rend="bold">Varronianus,</hi> adi. Varonov, varonski</entryFree>
          <entryFree ana="Varus">
@@ -32669,7 +32688,7 @@
          <entryFree ana="Vatinius">
             <hi rend="bold">Vatinius,</hi><gram> ii, m.</gram> Vatinije, ime rimskog roda</entryFree>
          <entryFree ana="Veii">
-            <hi rend="bold">Veii,</hi><gram> orum, m.</gram> Veji, grad u Etruriji; <hi rend="bold">Veiens,</hi><gram> ends</gram> <hi rend="bold">i Veientanus, </hi><gram>adi.</gram> vejski; <hi rend="bold">Veins,</hi> <gram>entis, m.</gram> i <hi rend="bold">Veientanus,</hi><gram> i, m.</gram> stanovnik Veja</entryFree>
+            <hi rend="bold">Veii,</hi><gram> orum, m.</gram> Veji, grad u Etruriji; <hi rend="bold">Veiens,</hi><gram> entis</gram> i <hi rend="bold">Veientanus</hi>, <gram>adi.</gram> vejski; <hi rend="bold">Veiens,</hi> <gram>entis, m.</gram> i <hi rend="bold">Veientanus,</hi><gram> i, m.</gram> stanovnik Veja</entryFree>
          <entryFree ana="Veiovis">
             <hi rend="bold">Veiovis,</hi><gram> is, m.</gram> Vejovis, staro rimsko božanstvo</entryFree>
          <entryFree ana="Velabrum">
@@ -32689,7 +32708,8 @@
          <entryFree ana="Venafranus">
             <hi rend="bold">Venafranus,</hi> adi. vanafarski</entryFree>
          <entryFree ana="Venedi">
-            <hi rend="bold">Venedi,</hi><gram> orum, m.</gram> Venedi (Vinidi, Vendi), slavensko pleme na srednjoj Visli <hi rend="bold">Veneti,</hi><gram> orum, m.</gram> Veneti; <hi rend="bold">Venettus</hi> i</entryFree>
+            <hi rend="bold">Venedi,</hi><gram> orum, m.</gram> Venedi (Vinidi, Vendi), slavensko pleme na srednjoj Visli</entryFree> 
+            <entryFree ana="Veneti"><hi rend="bold">Veneti,</hi><gram> orum, m.</gram> Veneti; <hi rend="bold">Venettus</hi> i</entryFree>
          <entryFree ana="Veneticus">
             <hi rend="bold">Veneticus,</hi> adi. venetski; <hi rend="bold">Veneticus,</hi> adi. venetski; <hi rend="bold">Venetus, i,</hi> m. Venet</entryFree>
          <entryFree ana="Venetia">
@@ -32715,7 +32735,9 @@
          <entryFree ana="Veronensis">
             <hi rend="bold">Veronensis,</hi><gram> e, adi. veronski; Veronensis, is, m.</gram> Veronjanin</entryFree>
          <entryFree ana="Verres">
-            <hi rend="bold">Verres,</hi><gram> is, m.</gram> Ver, rimsko obiteljsko ime; <hi rend="bold">Verrinus,</hi><gram> adi.</gram> Verov <hi rend="bold">Vertumnus,</hi> <gram>i, m.</gram> <hi rend="bold">Vertumno,</hi> rimski bog promjene</entryFree>
+            <hi rend="bold">Verres,</hi><gram> is, m.</gram> Ver, rimsko obiteljsko ime; <hi rend="bold">Verrinus,</hi><gram> adi.</gram> Verov</entryFree> 
+            <entryFree ana="Vertumnus">
+            <hi rend="bold">Vertumnus,</hi> <gram>i, m.</gram> Vertumno, rimski bog promjene</entryFree>
          <entryFree ana="Veseris">
             <hi rend="bold">Veseris,</hi><gram> is, m.</gram> Vezeris, rijeka u Kampaniji</entryFree>
          <entryFree ana="Vesontio">
