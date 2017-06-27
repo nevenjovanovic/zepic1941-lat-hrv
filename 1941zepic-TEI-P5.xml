@@ -417,10 +417,7 @@
          <entryFree ana="accommodatus">
             <hi rend="bold">accommodatus,</hi> <gram>adi.</gram> podešen prema čemu, primjeren, prikladan, shodan</entryFree>
          <entryFree ana="accommodo">
-            <hi rend="bold">accommodo,</hi> <gram>1.</gram> staviti na; podesiti; <hi rend="bold">se</hi>
-         </entryFree>
-         <entryFree ana="accommodare">
-            <hi rend="bold">accommodare</hi> prilagoditi se čemu, vladati se prema čemu</entryFree>
+            <hi rend="bold">accommodo,</hi> <gram>1.</gram> staviti na; podesiti; <hi rend="bold">se accommodare</hi> prilagoditi se čemu, vladati se prema čemu</entryFree>
          <entryFree ana="accommodus">
             <hi rend="bold">accommodus,</hi> <gram>adi.</gram> prikladan</entryFree>
          <entryFree ana="accredo">
@@ -431,9 +428,7 @@
             <hi rend="bold">accretio,</hi> <gram>onis, f.</gram> rastenje, prirastanje</entryFree>
          <entryFree ana="accubitio">
             <hi rend="bold">accubitio,</hi> <gram>onis, f.</gram> lijeganje, sjedanje (za stol)</entryFree>
-         <entryFree ana="accubo">
-            <hi rend="bold">accubo</hi>
-         </entryFree>
+         
          <entryFree ana="accubo">
             <hi rend="bold">accubo,</hi> <gram>1.</gram> ležati uz ili do koga; za stolom ležati</entryFree>
          <entryFree ana="accumbo">
@@ -10900,7 +10895,7 @@
          <entryFree ana="foris2">
             <hi rend="bold">foris²,</hi> <gram>is, f.</gram> krilo a vrata; plur. vrata</entryFree>
          <entryFree ana="forma">
-            <hi rend="bold">forma,</hi> <gram>ae, f.</gram> lik, oblik, lice, stas; ljepota; slika; osnova, naičin, vrsta; spoljašnost; model</entryFree>
+            <hi rend="bold">forma,</hi> <gram>ae, f.</gram> lik, oblik, lice, stas; ljepota; slika; osnova, način, vrsta; spoljašnost; model</entryFree>
          <entryFree ana="formator">
             <hi rend="bold">formator,</hi> <gram>oris, m.</gram> obrazovatelj</entryFree>
          <entryFree ana="formica">
@@ -26593,7 +26588,7 @@
          <entryFree ana="supellex">
             <hi rend="bold">supellex,</hi> <gram>lectilis, f.</gram> pokućstvo, namještaj</entryFree>
          <entryFree ana="super">
-            <hi rend="bold">super</hi> 1) adv. gore, ozgo; preko toga, odviše; preostalo; nato. 2) praep. a) s ak. nad, iznad; povrh; više; za, pri (<hi rend="underline">s. cenam</hi>); preko, osim, izvan; od, više nego (od); b) s abl. nad, vrh, povrh; pri, za (<hi rend="underline">s. nocte</hi> po noći); o, radi</entryFree>
+            <hi rend="bold">super</hi> 1) <gram>adv.</gram> gore, ozgo; preko toga, odviše; preostalo; nato. 2) <gram>praep.</gram> a) <gram>s ak.</gram> nad, iznad; povrh; više; za, pri (<hi rend="underline">s. cenam</hi>); preko, osim, izvan; od, više nego (od); b) <gram>s abl.</gram> nad, vrh, povrh; pri, za (<hi rend="underline">s. nocte</hi> po noći); o, radi</entryFree>
          <entryFree ana="superabilis">
             <hi rend="bold">superabilis,</hi> <gram>e, adi.</gram> prelazan; pobjedljiv</entryFree>
          <entryFree ana="superaddo">
@@ -26631,9 +26626,9 @@
          <entryFree ana="superimpono">
             <hi rend="bold">super-impono,</hi> <gram>posui, positum, 3.</gram> ozgo položiti, postaviti</entryFree>
          <entryFree ana="superincidens">
-            <hi rend="bold">super-incidens,</hi> entis, partic. odozgo padajući</entryFree>
+            <hi rend="bold">super-incidens,</hi> <gram>entis, partic.</gram> odozgo padajući</entryFree>
          <entryFree ana="superincubans">
-            <hi rend="bold">super-incubans,</hi> antis, partic. nad čim ležeći</entryFree>
+            <hi rend="bold">super-incubans,</hi> <gram>antis, partic.</gram> nad čim ležeći</entryFree>
          <entryFree ana="super incumbo">
             <hi rend="bold">super- incumbo,</hi> <gram>cubui, –, 3.</gram> odozgo na što leći</entryFree>
          <entryFree ana="superinicio">
@@ -26653,13 +26648,13 @@
          <entryFree ana="supernus">
             <hi rend="bold">supernus,</hi> <gram>adi.</gram> gornji; nebeski, višnji</entryFree>
          <entryFree ana="supero">
-            <hi rend="bold">supero</hi> 1.• 1) intr. pomaljati se, dizati se, nadilaziti; biti bolji, pretežniji; izobilja biti čega, pretjecati; ostati, preteći; biti živ. 2) tranz. prijeći, prevesti se preko (s. <hi rend="underline">saltu</hi> preskočiti); nadvisiti, nadvladati, proći što, mimo voziti se; pretrpjeti (<hi rend="underline">labores</hi>); prestići, natkriliti (<hi rend="underline">alqm alqa re</hi>)</entryFree>
+            <hi rend="bold">supero</hi> <gram>1.</gram> 1) intr. pomaljati se, dizati se, nadilaziti; biti bolji, pretežniji; izobilja biti čega, pretjecati; ostati, preteći; biti živ. 2) tranz. prijeći, prevesti se preko (s. <hi rend="underline">saltu</hi> preskočiti); nadvisiti, nadvladati, proći što, mimo voziti se; pretrpjeti (<hi rend="underline">labores</hi>); prestići, natkriliti (<hi rend="underline">alqm alqa re</hi>)</entryFree>
          <entryFree ana="superobruo">
             <hi rend="bold">super-obruo,</hi> <gram>–, –, 3.</gram> zatrpati</entryFree>
          <entryFree ana="superoccupo">
             <hi rend="bold">super-occupo,</hi> <gram>1.</gram> zateći, iznenaditi</entryFree>
          <entryFree ana="superpendens">
-            <hi rend="bold">super-pendens,</hi> entis, partic. viseći nad</entryFree>
+            <hi rend="bold">super-pendens,</hi> <gram>entis, partic.</gram> viseći nad</entryFree>
          <entryFree ana="superpono">
             <hi rend="bold">super-pono,</hi> <gram>posui, positum, 3.</gram> na što postaviti</entryFree>
          <entryFree ana="superscando">
@@ -26689,7 +26684,7 @@
          <entryFree ana="supertego">
             <hi rend="bold">super-tego,</hi> <gram>texi, tectum, 3.</gram> pokriti odozgo</entryFree>
          <entryFree ana="superurgens">
-            <hi rend="bold">super-urgens,</hi> entis, part. zapljuskujući</entryFree>
+            <hi rend="bold">super-urgens,</hi> <gram>entis, part.</gram> zapljuskujući</entryFree>
          <entryFree ana="superus">
             <hi rend="bold">superus,</hi> <gram>adi.</gram> 1) gornji; <hi rend="underline">superis ab oris</hi> s gornjega svijeta; <hi rend="underline">mare superum</hi> Jadransko more; (<hi rend="underline">dii</hi>) <hi rend="underline">superi</hi> bogovi (prema ljudima), nebeski bogovi (prema bogovima pod zemljom). 2) comp. <hi rend="bold">superior,</hi> ius, gornji, viši (<hi rend="underline">s. domus</hi> gornji dio kuće); pređašnji, stariji; odličniji, jači; <hi rend="underline">proelio superiorem esse</hi> biti pobjednik, nadvladati. 3) superl. a) <hi rend="bold">supremus,</hi> najveći, najviši (<hi rend="underline">mons</hi> najviši dio brijega); krajnji, najgori (<hi rend="underline">s. supplicium</hi> najljuća smrtna kazna); posljednji, <hi rend="underline">s. manum imponere operi</hi> do kraja posao dotjerati; <hi rend="underline">s. honor</hi> posljednja čast, ukop; subst. <hi rend="bold">suprema,</hi> <gram>orum, n.</gram> posljednji časovi života; oporuka; posljednja čast koja se ukazuje mrtvomu, ukop; adv. <hi rend="bold">supremum</hi> posljednji put. b) <hi rend="bold">summus,</hi> najviši (<hi rend="underline">s. mons</hi> vrh brijega); posljednji, krajnji, najveći, najviši, najodličniji; <hi rend="underline">vir s.</hi> znamenit čovjek; <hi rend="underline">dux s.</hi> najizvrsniji vojvoda; <hi rend="underline">summo loco natus</hi> od najplemenitijega roda; <hi rend="underline">s. res</hi> najznamenitija stvar; <hi rend="underline">dimicare de s. rebus</hi> boriti se za najveću vlast; <hi rend="underline">summum</hi> i <hi rend="underline">us</hi> najtvrđe pravo; <hi rend="underline">summa res publica</hi> opće dobro države, najveći interesi državni; subst. <hi rend="bold">summum,</hi> <gram>i, n.</gram> najviši vrh; adv. <hi rend="bold">summum</hi> najviše</entryFree>
          <entryFree ana="supervacaneus">
@@ -26761,7 +26756,7 @@
          <entryFree ana="supputo">
             <hi rend="bold">supputo,</hi> <gram>1.</gram> izračunati</entryFree>
          <entryFree ana="supra">
-            <hi rend="bold">supra,</hi> 1) adv. gore, odozgo; naprijed, prije; otprije; preko toga, više. 2) praep. s ak, više, nad; prije; preko</entryFree>
+            <hi rend="bold">supra,</hi> 1) <gram>adv.</gram> gore, odozgo; naprijed, prije; otprije; preko toga, više. 2) <gram>praep. s ak</gram>, više, nad; prije; preko</entryFree>
          <entryFree ana="supralatio">
             <hi rend="bold">supralatio,</hi> <gram>onis, f.</gram> pretjerivanje</entryFree>
          <entryFree ana="supralatus">
@@ -26785,7 +26780,7 @@
          <entryFree ana="surrepo">
             <hi rend="bold">sur-repo,</hi> <gram>repsi, reptum, 3.</gram> prikradati se, dovući se; dopuzati, neopažen napasti <hi rend="bold">surrepticius,</hi> <gram>adi.</gram> potajni, tajom</entryFree>
          <entryFree ana="surrexe">
-            <hi rend="bold">surrexe,</hi> inf. perf. od <hi rend="underline">surgo</hi> (mj. <hi rend="underline">surrexisse</hi>)</entryFree>
+            <hi rend="bold">surrexe,</hi> <gram>inf. perf.</gram> od <hi rend="underline">surgo</hi> (mj. <hi rend="underline">surrexisse</hi>)</entryFree>
          <entryFree ana="surrigo">
             <hi rend="bold">surrigo,</hi> v. <hi rend="underline">surgo</hi>
          </entryFree>
@@ -27147,7 +27142,7 @@
          <entryFree ana="tenus1">
             <hi rend="bold">tenus¹,</hi> <gram>indecl, n.</gram> pruglo, napeta uzica, zamka</entryFree>
          <entryFree ana="tenus2">
-            <hi rend="bold">tenus²,</hi> praep. s abl. i gen., stoji iza riječi na koju se odnosi, do, sve do (<hi rend="underline">Tauro t.</hi>); <hi rend="underline">verbo t.</hi> samo po riječi</entryFree>
+            <hi rend="bold">tenus²,</hi> <gram>praep. s abl. i gen.</gram>, stoji iza riječi na koju se odnosi, do, sve do (<hi rend="underline">Tauro t.</hi>); <hi rend="underline">verbo t.</hi> samo po riječi</entryFree>
          <entryFree ana="tepefacio">
             <hi rend="bold">tepe-facio,</hi> <gram>feci, factum, 3.</gram> mlačiti, grijati</entryFree>
          <entryFree ana="tepeo">
@@ -27484,7 +27479,7 @@
          <entryFree ana="torquis">
             <hi rend="bold">torquis</hi> i <hi rend="bold">torques,</hi> <gram>is, m. i f.</gram> vratna verižica; jaram</entryFree>
          <entryFree ana="torrens">
-            <hi rend="bold">torrens,</hi> entis, 1) adi. gorući, usijan; bučan. 2) subst. m. bujica</entryFree>
+            <hi rend="bold">torrens,</hi> <gram>entis,</gram> 1) <gram>adi.</gram> gorući, usijan; bučan. 2) su<gram>bst. m.</gram> bujica</entryFree>
          <entryFree ana="torreo">
             <hi rend="bold">torreo,</hi> <gram>torrui, tostum, 2.</gram> sušiti, pržiti, smuditi; rasplamtiti</entryFree>
          <entryFree ana="torridus">
@@ -27593,7 +27588,7 @@
          <entryFree ana="tranquillus">
             <hi rend="bold">tranquillus,</hi> <gram>adi.</gram> miran, tih, spokojan;  subst.  <hi rend="bold">tranquillum,</hi> <gram>i, n.</gram> tišina; mir, pokoj</entryFree>
          <entryFree ana="trans">
-            <hi rend="bold">trans,</hi> praep. s ak. s jedne strane na drugu, preko; onkraj, s onu stranu, za</entryFree>
+            <hi rend="bold">trans,</hi> <gram>praep. s ak.</gram> s jedne strane na drugu, preko; onkraj, s onu stranu, za</entryFree>
          <entryFree ana="transabeo">
             <hi rend="bold">trans-abeo, </hi> <gram>ii, itum, ire,</gram> proći kroz, prodrijeti</entryFree>
          <entryFree ana="transactor">
@@ -28010,7 +28005,7 @@
          <entryFree ana="tumultuose">
             <hi rend="bold">tumultuose,</hi> <gram>adv.</gram> bučno, burno, rogoborno</entryFree>
          <entryFree ana="tumultuosus">
-            <hi rend="bold">tumultuosus,</hi> ads, nemiran; bučan; koji uzrokuje nemir, buku</entryFree>
+            <hi rend="bold">tumultuosus,</hi> <gram>adi.</gram> nemiran; bučan; koji uzrokuje nemir, buku</entryFree>
          <entryFree ana="tumultus">
             <hi rend="bold">tumultus,</hi> <gram>us, m.</gram> nemir, buka, larma; strah; uznemirenost elemenata (t. <hi rend="underline">aetherii</hi> grmljavina); zveket oruža, ustanak, buna; <hi rend="underline">t. servilis</hi> ustanak robova; <hi rend="underline">tumultum decernere</hi> naredbom oglasiti da je nenadan rat blizu i da svatko na oruže skoči; <hi rend="underline">tumultum concit are</hi> odrediti ustanak</entryFree>
          <entryFree ana="tumulus">
@@ -28104,7 +28099,7 @@
          <entryFree ana="tutamen">
             <hi rend="bold">tutamen,</hi> <gram>inis, n.</gram> i <hi rend="bold">tutamentum,</hi> <gram>i, n.</gram> obrana, sredstvo za obranu, zaštita</entryFree>
          <entryFree ana="tute">
-            <hi rend="bold">tute,</hi> pojacčano <hi rend="bold">tu,</hi> baš ti</entryFree>
+            <hi rend="bold">tute,</hi> pojačano <hi rend="bold">tu,</hi> baš ti</entryFree>
          <entryFree ana="tutela">
             <hi rend="bold">tutela,</hi> <gram>ae, f.</gram> 1) obrana, zaštita, zakrilje; konkr, zaštitnik, branič; štićenik. 2) hranjenje, skrbništvo; <hi rend="underline">in suam tutelam pervenire</hi> punoljetan postati</entryFree>
          <entryFree ana="tuto">
@@ -28142,7 +28137,7 @@
          <entryFree ana="ubertim">
             <hi rend="bold">ubertim,</hi> <gram>adv.</gram> obilno</entryFree>
          <entryFree ana="ubi">
-            <hi rend="bold">ubi,</hi> 1) adv. gdje. 2) conict. kako, pošto, kada; <hi rend="underline">ubi primum</hi> kako, čim</entryFree>
+            <hi rend="bold">ubi,</hi> 1) <gram>adv.</gram> gdje. 2) <gram>conict.</gram> kako, pošto, kada; <hi rend="underline">ubi primum</hi> kako, čim</entryFree>
          <entryFree ana="ubicumque">
             <hi rend="bold">ubi-cumque</hi> (cunque), <gram>adv.</gram> gdje god, gdje mu drago; svagdje</entryFree>
          <entryFree ana="ubinam">
@@ -28174,7 +28169,7 @@
          <entryFree ana="ulna">
             <hi rend="bold">ulna,</hi> <gram>ae, f.</gram> lakat; ruka; lakat (mjera)</entryFree>
          <entryFree ana="ulterior">
-            <hi rend="bold">ulterior,</hi> ius, gen. ioris, adi. comp. 1) onostran, udaljeniji. 2) prošao, dalji, ostali; superl. <hi rend="bold">ultimus,</hi> 1) krajnji, posljednji, <hi rend="underline">ad ultimum</hi> posljednji put. 2) najviši, najveći, najljući, najniži, najmanji</entryFree>
+            <hi rend="bold">ulterior,</hi> <gram>ius, gen. ioris, adi. comp.</gram> 1) onostran, udaljeniji. 2) prošao, dalji, ostali; superl. <hi rend="bold">ultimus,</hi> 1) krajnji, posljednji, <hi rend="underline">ad ultimum</hi> posljednji put. 2) najviši, najveći, najljući, najniži, najmanji</entryFree>
          <entryFree ana="ulterius">
             <hi rend="bold">ulterius,</hi> <gram>adv.</gram> comp. dalje, više</entryFree>
          <entryFree ana="ultio">
@@ -28182,7 +28177,7 @@
          <entryFree ana="ultor">
             <hi rend="bold">ultor,</hi> <gram>oris, m.</gram> osvetnik</entryFree>
          <entryFree ana="ultra">
-            <hi rend="bold">ultra</hi> 1) adv. s onu stranu, prijeko. 2) praep. s ak. onkraj, preko, za; nad, iznad</entryFree>
+            <hi rend="bold">ultra</hi> 1) <gram>adv.</gram> s onu stranu, prijeko. 2) <gram>praep. s ak.</gram> onkraj, preko, za; nad, iznad</entryFree>
          <entryFree ana="ultrix">
             <hi rend="bold">ultrix,</hi> <gram>icis, f.</gram> osvetnica</entryFree>
          <entryFree ana="ultro">
@@ -28306,7 +28301,7 @@
          <entryFree ana="unguo">
             <hi rend="bold">unguo,</hi> v. ungo</entryFree>
          <entryFree ana="unice">
-            <hi rend="bold">unice,</hi> adr. jedino; osobito, izvanredno; potpuno</entryFree>
+            <hi rend="bold">unice,</hi> <gram>adv.</gram> jedino; osobito, izvanredno; potpuno</entryFree>
          <entryFree ana="unicolor">
             <hi rend="bold">uni-color,</hi> <gram>oris, adi.</gram> jedne boje, jednobojan</entryFree>
          <entryFree ana="unicus">
@@ -28448,7 +28443,7 @@
          <entryFree ana="utroque">
             <hi rend="bold">utroque,</hi> <gram>adv.</gram> na obje strane, na jednu i na drugu stranu</entryFree>
          <entryFree ana="utrum">
-            <hi rend="bold">utrum,</hi> upitna čestica (u prvom članu disjunkt. pitanja) da li, li</entryFree>
+            <hi rend="bold">utrum,</hi> <gram>upitna čestica (u prvom članu disjunkt. pitanja)</gram> da li, li</entryFree>
          <entryFree ana="utut">
             <hi rend="bold">ut-ut,</hi> <gram>adv.</gram> = utcunque, kako god, kako mu drago</entryFree>
          <entryFree ana="uva">
@@ -28530,7 +28525,7 @@
          <entryFree ana="valetudo">
             <hi rend="bold">valetudo,</hi> <gram>inis, f.</gram> 1) zdravlje, zdravstveno stanje; bona valetudine uti zdrav biti. 2) bolest, boležljivost; excusatione valetudinis uti ispričavati se bolešću; simulare valetudinem graditi se bolesnim</entryFree>
          <entryFree ana="valide">
-            <hi rend="bold">valide,</hi> ado. jako, silno, veoma</entryFree>
+            <hi rend="bold">valide,</hi> <gram>adv.</gram> jako, silno, veoma</entryFree>
          <entryFree ana="validus">
             <hi rend="bold">validus,</hi> <gram>adi.</gram> jak, krepak, čvrst; zdrav, čil; moćan, silan</entryFree>
          <entryFree ana="vallaris">
@@ -28614,7 +28609,7 @@
          <entryFree ana="vecordia">
             <hi rend="bold">vecordia</hi> (vaecordia), <gram>ae, f.</gram> bezumnost, mahnitost</entryFree>
          <entryFree ana="vecors">
-            <hi rend="bold">vecors</hi> (vaecors), cordis, adi. bezuman, mahnit, smušen</entryFree>
+            <hi rend="bold">vecors</hi> (vaecors), <gram>cordis, adi.</gram> bezuman, mahnit, smušen</entryFree>
          <entryFree ana="vectatio">
             <hi rend="bold">vectatio,</hi> <gram>onis, f.</gram> jahanje, vožnja</entryFree>
          <entryFree ana="vectigal">
@@ -28636,7 +28631,7 @@
          <entryFree ana="vegetus">
             <hi rend="bold">vegetus,</hi> <gram>adi.</gram> živ, čil, krepak</entryFree>
          <entryFree ana="vegrandis">
-            <hi rend="bold">ve-grandis</hi> (vaegrandis), e, adi. silno malen; silno velik</entryFree>
+            <hi rend="bold">ve-grandis</hi> (vaegrandis), <gram>e, adi.</gram> silno malen; silno velik</entryFree>
          <entryFree ana="vehemens">
             <hi rend="bold">vehemens,</hi> <gram>entis, adi.</gram> žestok, vatren, buran, vrlo strog; jak, silan; neodoljiv, pun vatre</entryFree>
          <entryFree ana="vehementer">
@@ -28646,7 +28641,7 @@
          <entryFree ana="veho">
             <hi rend="bold">veho,</hi> <gram>vexi, vectum, 3.</gram> 1) tranz. voziti, nositi, vući, donijeti; pas. <hi rend="bold">vehi</hi> voziti se, jahati, broditi, letjeti; <hi rend="underline">equo v.</hi> jahati; <hi rend="underline">curru v.</hi> voziti se; <hi rend="underline">nave v.</hi> jedriti. 2) intr. dati se nositi, voziti se, jahati</entryFree>
          <entryFree ana="vel">
-            <hi rend="bold">vel,</hi> disjunkt. conict. 1) ili; <hi rend="underline">vel-vel</hi> ili – ili, koje – koje. 2) (sa superl.) svaki, baš (<hi rend="underline">velpotentissimus</hi>); osobito, najpače</entryFree>
+            <hi rend="bold">vel,</hi> <gram>disjunkt. conict.</gram> 1) ili; <hi rend="underline">vel-vel</hi> ili – ili, koje – koje. 2) (sa superl.) svaki, baš (<hi rend="underline">velpotentissimus</hi>); osobito, najpače</entryFree>
          <entryFree ana="velamen">
             <hi rend="bold">velamen,</hi> <gram>inis, n.</gram> pokrivalo, odijelo; veo</entryFree>
          <entryFree ana="velamentum">
@@ -28884,7 +28879,7 @@
          <entryFree ana="versura">
             <hi rend="bold">versura,</hi> <gram>ae, f.</gram> zajam; <hi rend="underline">facere versuram</hi> podići zajam</entryFree>
          <entryFree ana="versus1">
-            <hi rend="bold">versus¹</hi> (vorsus, versum), 1) adv. k, protiv, prema (obično s prijedlogom <hi rend="underline">ad</hi>  i <hi rend="underline">in</hi>: <hi rend="underline">in Italiam v.</hi> prema Italiji). 2) praep. s ak.(obično se zapostavlja) prema, k (<hi rend="underline">Romam versus</hi>)</entryFree>
+            <hi rend="bold">versus¹</hi> (vorsus, versum), 1) <gram>adv.</gram> k, protiv, prema (obično s prijedlogom <hi rend="underline">ad</hi>  i <hi rend="underline">in</hi>: <hi rend="underline">in Italiam v.</hi> prema Italiji). 2) <gram>praep. s ak.</gram>(obično se zapostavlja) prema, k (<hi rend="underline">Romam versus</hi>)</entryFree>
          <entryFree ana="versus2">
             <hi rend="bold">versus²,</hi> <gram>us, m.</gram> red; redak; stih</entryFree>
          <entryFree ana="versus3">
@@ -29118,7 +29113,7 @@
          <entryFree ana="vimineus">
             <hi rend="bold">vimineus,</hi> <gram>adi.</gram> vrbov, od vrbe pleten</entryFree>
          <entryFree ana="vin">
-            <hi rend="bold">vin</hi> = <hi rend="underline">visne</hi>, hočeš li</entryFree>
+            <hi rend="bold">vin</hi> = <hi rend="underline">visne</hi>, hoćeš li</entryFree>
          <entryFree ana="vinaceus">
             <hi rend="bold">vinaceus,</hi> <gram>i, m.</gram> pećka u grozdovoj jagodi; koštica</entryFree>
          <entryFree ana="vinarius">
@@ -29869,13 +29864,13 @@
          <entryFree ana="Amulius">
             <hi rend="bold">Amulius,</hi> <gram>ii, m.</gram> Amulije, kralj u Albi Longi</entryFree>
          <entryFree ana="Amyntas">
-            <hi rend="bold">Amyntas,</hi> ae, ire. Aminta, ime nekih makedonskih kraljeva</entryFree>
+            <hi rend="bold">Amyntas,</hi> <gram>ae, m.</gram> Aminta, ime nekih makedonskih kraljeva</entryFree>
          <entryFree ana="Anacharsis">
-            <hi rend="bold">Anacharsis,</hi> idis, m Anaharzis, skitski filozof</entryFree>
+            <hi rend="bold">Anacharsis,</hi> <gram>idis, m.</gram> Anaharzis, skitski filozof</entryFree>
          <entryFree ana="Anacreon">
-            <hi rend="bold">Anacreon,</hi> ontis, zn. Anakreont, grčki lirski pjesnik</entryFree>
+            <hi rend="bold">Anacreon,</hi> <gram>ontis, m.</gram> Anakreont, grčki lirski pjesnik</entryFree>
          <entryFree ana="Anas">
-            <hi rend="bold">Anas,</hi> <gram>tie, m.</gram> Ana (Guadiana), rijeka u Hispaniji</entryFree>
+            <hi rend="bold">Anas,</hi> <gram>ae, m.</gram> Ana (Guadiana), rijeka u Hispaniji</entryFree>
          <entryFree ana="Anaxagoras">
             <hi rend="bold">Anaxagoras,</hi> <gram>ae, m.</gram> Anaksagora, grčki filozof</entryFree>
          <entryFree ana="Anaxarchus">
@@ -30643,7 +30638,7 @@
          <entryFree ana="Eurotas">
             <hi rend="bold">Eurotas,</hi> <gram>ae, m.</gram> Eurota, rijeka u Lakoniji</entryFree>
          <entryFree ana="Eurybiades">
-            <hi rend="bold">Eurybiades,</hi> is, m I. Euribijad, kralj lakedemonski</entryFree>
+            <hi rend="bold">Eurybiades,</hi> <gram>is, m</gram> I. Euribijad, kralj lakedemonski</entryFree>
          <entryFree ana="Eurydice">
             <hi rend="bold">Eurydice,</hi> <gram>es, f.</gram> Euridika, Orfejeva žena</entryFree>
          <entryFree ana="Euxinus Pontus">
@@ -32654,7 +32649,7 @@
          <entryFree ana="Ubii">
             <hi rend="bold">Ubii,</hi> <gram>orum, m.</gram> Ubijci, germansko pleme:</entryFree>
          <entryFree ana="Ubius">
-            <hi rend="bold">Ubius,</hi> ndi, ubijski</entryFree>
+            <hi rend="bold">Ubius,</hi> <gram>adi</gram>, ubijski</entryFree>
          <entryFree ana="Ucalegon">
             <hi rend="bold">Ucalegon,</hi> <gram>ontis, m.</gram> Ukalegon. Trojanac</entryFree>
          <entryFree ana="Ulixes">
