@@ -1,5 +1,7 @@
 # The Latin-Croatian Dictionary by Milan Žepić, 1941 edition, XML version
 
+[![DOI](https://zenodo.org/badge/91201484.svg)](https://zenodo.org/badge/latestdoi/91201484)
+
 Contains the XML source, XSL to transform it, and HTML result of a digital version of Milan Žepić's Latin-Croatian school dictionary.
 
 [Milan Žepić](http://viaf.org/viaf/46909274) (1857-1922) wrote his dictionary in 1901. The third revised and expanded edition was published in 1941.
