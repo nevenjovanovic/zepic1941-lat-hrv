@@ -16,9 +16,9 @@ The TEI XML edition was transformed into HTML with the view of including it into
 for Latin texts.
 
 ## Contents
-+ The XML source
-+ The XSLT stylesheet
-+ The HTML result
++ The XML source: [1941zepic-TEI-P5.xml](https://github.com/nevenjovanovic/zepic1941-lat-hrv/raw/master/1941zepic-TEI-P5.xml)
++ The XSLT stylesheet: [Zepic_1941.xsl](https://github.com/nevenjovanovic/zepic1941-lat-hrv/raw/master/Zepic_1941.xsl)
++ The HTML result: [1941zepic-TEI-P5.html](https://github.com/nevenjovanovic/zepic1941-lat-hrv/raw/master/1941zepic-TEI-P5.html)
 
 ## License
 [CC-BY](https://github.com/nevenjovanovic/zepic1941-lat-hrv/blob/master/LICENSE.md)
