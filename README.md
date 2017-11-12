@@ -19,6 +19,8 @@ for Latin texts.
 + The XML source: [1941zepic-TEI-P5.xml](https://github.com/nevenjovanovic/zepic1941-lat-hrv/raw/master/1941zepic-TEI-P5.xml)
 + The XSLT stylesheet: [Zepic_1941.xsl](https://github.com/nevenjovanovic/zepic1941-lat-hrv/raw/master/Zepic_1941.xsl)
 + The HTML result: [1941zepic-TEI-P5.html](https://github.com/nevenjovanovic/zepic1941-lat-hrv/raw/master/1941zepic-TEI-P5.html)
++ The XML source reformatted into a [PhiloLogic 4](https://github.com/ARTFL-Project/PhiloLogic4) friendly version: [1941zepic-TEI-P5_div.xml](https://github.com/nevenjovanovic/zepic1941-lat-hrv/raw/master/1941zepic-TEI-P5_div.xml)
++ Two XSLT stylesheets needed to produce the above reformatting: [copy.xsl](https://github.com/nevenjovanovic/zepic1941-lat-hrv/blob/master/copy.xsl), [zepic_entry_div.xsl](https://github.com/nevenjovanovic/zepic1941-lat-hrv/blob/master/zepic_entry_div.xsl)
 
 ## License
 [CC-BY](https://github.com/nevenjovanovic/zepic1941-lat-hrv/blob/master/LICENSE.md)
