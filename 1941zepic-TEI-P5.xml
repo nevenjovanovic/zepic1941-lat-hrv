@@ -122,7 +122,7 @@
          <item>partic. = participium, particip</item>
          <item>pas. = passivum, pasiv</item>
          <item>perf. = perfectum, perfekt</item>
-         <item>pl.., plur. = pluralis, množina</item>
+         <item>pl., plur. = pluralis, množina</item>
          <item>plsqpf. = plusquamperfectum, pluskvamperfekt</item>
          <item>poss. = possessivum, prisvojna zamjenica</item>
          <item>praep. = praepositio, prijedlog</item>
@@ -317,7 +317,7 @@
          <entryFree ana="abstrusus">
             <hi rend="bold">abstrusus,</hi> <gram>adi.</gram> sakriven, zaklonjen; pritajen</entryFree>
          <entryFree ana="absum">
-            <hi rend="bold">ab-sum,</hi> <gram>afui, abesse,</gram> ne biti tu, nenazočan biti; ne biti od koristi, nedostajati; udaljen biti od (<hi rend="underline">haud multum</hi> ili <hi rend="underline">neque multum, non longe, paulum, minimum; nihil abest, quin</hi>...malo treba da ne; <hi rend="underline">nihil abest, quin sim miserrimus</hi> gotovo sam najbjedniji; <hi rend="underline">tantum abest, ut...ut</hi> toliko je udaljeno od toga da . . . da; ne samo da ne . . . pače); ne dolikovati; razlikovati se od čega</entryFree>
+            <hi rend="bold">ab-sum,</hi> <gram>afui, abesse,</gram> ne biti tu, nenazočan biti; ne biti od koristi, nedostajati; udaljen biti od (<hi rend="underline">haud multum</hi> ili <hi rend="underline">neque multum, non longe, paulum, minimum; nihil abest, quin...</hi> malo treba da ne; <hi rend="underline">nihil abest, quin sim miserrimus</hi> gotovo sam najbjedniji; <hi rend="underline">tantum abest, ut... ut</hi> toliko je udaljeno od toga da . . . da; ne samo da ne... pače); ne dolikovati; razlikovati se od čega</entryFree>
          <entryFree ana="absumo">
             <hi rend="bold">ab-sumo,</hi> <gram>sumpsi, sumptum, 3.</gram> potrošiti, poharčiti, prosipati, uništiti; pogubiti, pomoriti; u pas. poginuti, umrijeti</entryFree>
          <entryFree ana="absurde">
@@ -1442,7 +1442,7 @@
          <entryFree ana="alte">
             <hi rend="bold">alte,</hi> <gram>adv.</gram> visoko; duboko</entryFree>
          <entryFree ana="alter">
-            <hi rend="bold">alter,</hi> <gram>era, erum, adi.</gram> jedan od dvojice, drugi; slijedeći; <hi rend="underline">alter...alter</hi> jedan . . . a drugi; = <hi rend="underline">secundus</hi> drugi; <hi rend="underline">alterum tantum</hi> još jednom toliko</entryFree>
+            <hi rend="bold">alter,</hi> <gram>era, erum, adi.</gram> jedan od dvojice, drugi; slijedeći; <hi rend="underline">alter... alter</hi> jedan... a drugi; = <hi rend="underline">secundus</hi> drugi; <hi rend="underline">alterum tantum</hi> još jednom toliko</entryFree>
          <entryFree ana="altercatio">
             <hi rend="bold">altercatio,</hi> <gram>onis, f.</gram> prepiranje, svađanje</entryFree>
          <entryFree ana="altercor">
@@ -26171,7 +26171,7 @@
          <entryFree ana="suber">
             <hi rend="bold">suber,</hi> <gram>eris, n.</gram> pluto</entryFree>
          <entryFree ana="subf...">
-            <hi rend="bold">subf...</hi>, <hi rend="bold">subg</hi> . . ., v. suff . . ., sugg . . .</entryFree>
+            <hi rend="bold">subf...</hi>, <hi rend="bold">subg ...</hi>, v. suff..., sugg...</entryFree>
          <entryFree ana="subhorridus">
             <hi rend="bold">sub-horridus,</hi> <gram>adi.</gram> nešto neotesan, nešto surov</entryFree>
          <entryFree ana="subiaceo">
